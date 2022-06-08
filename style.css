@@ -92,7 +92,7 @@ input[type='number'] {
 .btn {
     font-family: inherit;
     cursor: pointer;
-    background-color: #2b00ff;
+    background-color: #31aa01;
     box-shadow: var(--box-shadow);
     color: #fff;
     border: 0;
