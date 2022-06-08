@@ -18,6 +18,9 @@ Users should be able to:
 
 #### - See their balance
 
+#### - See the added income and added expense
+
+
 
 
 
