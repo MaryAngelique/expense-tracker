@@ -20,8 +20,7 @@ Users should be able to:
 
 #### - See the added income and added expense
 
-
-
+#### - View the user's transaction history
 
 
 ### Links
