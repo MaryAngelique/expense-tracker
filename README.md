@@ -16,11 +16,9 @@
 
 Users should be able to:
 
-#### - 
+#### - See their balance
 
-#### - 
 
-#### - 
 
 
 ### Links
