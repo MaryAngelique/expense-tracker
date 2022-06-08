@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Expense Tracker GitHub Solution](https://github.com/MaryAngelique/expense-tracker)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Expense Tracker Website](https://expense-tracker-zero.vercel.app/)
 
 ## My process
 
