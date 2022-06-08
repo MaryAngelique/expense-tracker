@@ -22,6 +22,8 @@ Users should be able to:
 
 #### - View the user's transaction history
 
+#### - Add new trasaction with a transaction title and amount
+
 
 ### Links
 
