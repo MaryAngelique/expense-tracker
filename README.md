@@ -36,8 +36,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
+- LocalStorage
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
