@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Expense Tracker GitHub Solution](https://github.com/MaryAngelique/expense-tracker)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
